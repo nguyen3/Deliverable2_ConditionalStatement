@@ -104,7 +104,7 @@ namespace Deliverable2_ConditionalStatement
                     Console.WriteLine("Press any key to exit...");
                     Console.ReadKey(true);
                 }
-            } //Emd of try
+            } //End of try
 
             catch
             {
