@@ -1,6 +1,6 @@
 ﻿/*
  Author: Trang Nguyen
- Date: 
+ Date: 1/17/2019
  Comment: This C# Console application code demonstrates the use of 
           conditional statements for different grade of MIS Capstones class.
 */
